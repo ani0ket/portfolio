@@ -18,14 +18,84 @@ export const targetElements = [
   {
     element: ".hero-title",
     animation: {
-      delay: 500,
+      delay: 300,
       origin: window.innerWidth > 768 ? "left" : "bottom",
+    },
+  },
+  {
+    element: ".animate-1",
+    animation: {
+      delay: 800,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-2",
+    animation: {
+      delay: 900,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-3",
+    animation: {
+      delay: 1000,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-4",
+    animation: {
+      delay: 1100,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-5",
+    animation: {
+      delay: 1200,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-6",
+    animation: {
+      delay: 1300,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-7",
+    animation: {
+      delay: 1400,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-8",
+    animation: {
+      delay: 1500,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-9",
+    animation: {
+      delay: 1600,
+      origin: "left",
+    },
+  },
+  {
+    element: ".animate-10",
+    animation: {
+      delay: 1700,
+      origin: "left",
     },
   },
   {
     element: ".hero-cta",
     animation: {
-      delay: 1000,
+      delay: 600,
       origin: window.innerWidth > 768 ? "left" : "bottom",
     },
   },
